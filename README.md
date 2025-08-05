@@ -49,7 +49,7 @@ This project was built as part of a frontend learning journey and portfolio buil
 
 ### 🔧 Installation
 
-git clone https://github.com/your-username/ochi-clone.git
+git clone https://github.com/Zartasha-kanwal/ochi-replica.git
 
 cd ochi-clone
 
